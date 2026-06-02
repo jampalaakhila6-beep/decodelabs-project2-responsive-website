@@ -1,27 +1,26 @@
-# decodelabs-project2-responsive-website
 # Responsive Web Layout
 
-A responsive website built using HTML5 and CSS3 as part of the DecodeLabs Frontend Development Internship - Project 2.
+A responsive website developed using HTML5 and CSS3 as part of the DecodeLabs Frontend Development Internship – Project 2.
 
 ## Project Overview
 
-This project demonstrates:
+This project demonstrates the implementation of a responsive web layout that adapts to different screen sizes using:
 
-* Responsive Web Design
-* CSS Media Queries
-* Flexbox Layout
-* CSS Grid Layout
-* Mobile-First Principles
-* Proper Spacing and Alignment
+* HTML5
+* CSS3
+* Flexbox
+* CSS Grid
+* Media Queries
 
 ## Features
 
 * Responsive Navigation Bar
 * Hero Section
-* Services Cards
+* Services Section
 * About Section
-* Footer
-* Mobile, Tablet, and Desktop Compatibility
+* Contact Section
+* Responsive Footer
+* Mobile, Tablet, and Desktop Support
 
 ## Technologies Used
 
@@ -31,20 +30,34 @@ This project demonstrates:
 * CSS Grid
 * Media Queries
 
+## Folder Structure
+
+Responsive-Web-Layout/
+
+├── index.html
+
+├── style.css
+
+├── README.md
+
+└── screenshots/
+
+    ├── desktop.png
+
+    ├── tablet.png
+
+    └── mobile.png
+
 ## Live Demo
 
-Add your GitHub Pages link here:
-
-https://yourusername.github.io/decodelabs-project2-responsive-website/
+https://jampalaakhila6-beep.github.io/decodelabs-project2-responsive-website/
 
 ## GitHub Repository
 
-Add your repository link here:
-
-https://github.com/yourusername/decodelabs-project2-responsive-website
+https://github.com/jampalaakhila6-beep/decodelabs-project2-responsive-website
 
 ## Author
 
-Harika Jampala
+Akhila Jampala
 
-DecodeLabs Frontend Development Internship - 2026
+DecodeLabs Frontend Development Internship 2026
